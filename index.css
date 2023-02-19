@@ -1,0 +1,27 @@
+body {
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pic {
+  width: 150px;
+  height: 200px;
+  border-radius: 20px;
+  border: 3px solid #d8cefe;
+}
+
+.card {
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+  margin: 0 auto;
+  background-color: #ddebf8;
+  text-align: center;
+  border-bottom: 7px solid #d8cefe;
+  color: #2b2839;
+}
+
+/* .blueBorder {
+  border: 2px dotted black;
+} */
